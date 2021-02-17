@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'auth0-python==3.0.0',
         'boto3==1.4.4',
-        'requests==2.14.2'
+        'requests==2.20.0'
     ],
     setup_requires=[
         'pytest-runner',
